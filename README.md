@@ -1,5 +1,7 @@
 Hi this is roy-on-board
+
 This is a Sentiment Analysis Project 
+
 Step 1: Open the cloned repository and create a conda environment. Activate the new environment
 conda create -n amazonreview python=3.10
 conda activate amazonreview
